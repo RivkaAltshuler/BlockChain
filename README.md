@@ -1,2 +1,2 @@
 # BlockChain
-Implement a basic BlockChain for Medical Records with C#
+A basic BlockChain implemention for Medical Records with C#
